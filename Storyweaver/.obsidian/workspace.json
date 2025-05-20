@@ -1,0 +1,471 @@
+{
+  "main": {
+    "id": "28c7a16a13bcf071",
+    "type": "split",
+    "children": [
+      {
+        "id": "0a7473ac58303a74",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b31d14346b3b60c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Author_Projects/Project_내가_먹물로_새기는_전설/02_Lore_NMSJ/Artifacts_NMSJ/진묵_삼한비록지묵_설정_NMSJ.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "진묵_삼한비록지묵_설정_NMSJ"
+            }
+          },
+          {
+            "id": "3107b56159334ceb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Author_Projects/Project_내가_먹물로_새기는_전설/02_Lore_NMSJ/Characters_NMSJ/진묵_목소리_캐릭터_NMSJ.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "진묵_목소리_캐릭터_NMSJ"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2c1746cdac14b6ce",
+    "type": "split",
+    "children": [
+      {
+        "id": "d7037215375f6282",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c572b8e4f5ee59ba",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
+            }
+          },
+          {
+            "id": "f1e76e87c90d4651",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "검색"
+            }
+          },
+          {
+            "id": "50495506f5781dd8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "북마크"
+            }
+          },
+          {
+            "id": "19a23cc02a52fefd",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "플러그인이 더 이상 활성화돼있지 않음"
+            }
+          },
+          {
+            "id": "30b5d8dacb6ebc28",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "플러그인이 더 이상 활성화돼있지 않음"
+            }
+          },
+          {
+            "id": "b5798fd1b58b0ac9",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "플러그인이 더 이상 활성화돼있지 않음"
+            }
+          },
+          {
+            "id": "71412d459d298ceb",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "플러그인이 더 이상 활성화돼있지 않음"
+            }
+          },
+          {
+            "id": "cc77337d6d136ef5",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {},
+              "icon": "sheets-in-box",
+              "title": "File Tree"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 331
+  },
+  "right": {
+    "id": "839ec20f79cc69b4",
+    "type": "split",
+    "children": [
+      {
+        "id": "b6d88852800ec409",
+        "type": "tabs",
+        "dimension": 67.61280931586609,
+        "children": [
+          {
+            "id": "5057079fc3a233ad",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Author_Projects/Project_내가_먹물로_새기는_전설/03_Narrative_NMSJ/Arc_01_검은먹물의_각성_NMSJ/Arc01_Event_List_NMSJ.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Arc01_Event_List_NMSJ 의 백링크"
+            }
+          },
+          {
+            "id": "cf9f31737539b253",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Author_Projects/Project_내가_먹물로_새기는_전설/03_Narrative_NMSJ/Arc_01_검은먹물의_각성_NMSJ/Arc01_Event_List_NMSJ.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Arc01_Event_List_NMSJ 의 나가는 링크"
+            }
+          },
+          {
+            "id": "8b958e0eaafbd368",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "태그"
+            }
+          },
+          {
+            "id": "712e17e41f0aa21f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Author_Projects/Project_내가_먹물로_새기는_전설/03_Narrative_NMSJ/Arc_01_검은먹물의_각성_NMSJ/Arc01_Event_List_NMSJ.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Arc01_Event_List_NMSJ 의 개요"
+            }
+          },
+          {
+            "id": "028175a903ad0892",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "모든 속성"
+            }
+          },
+          {
+            "id": "55ed51e50f229521",
+            "type": "leaf",
+            "state": {
+              "type": "Strange New Worlds",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "플러그인이 더 이상 활성화돼있지 않음"
+            }
+          },
+          {
+            "id": "a175e73f62d60f96",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "플러그인이 더 이상 활성화돼있지 않음"
+            }
+          },
+          {
+            "id": "5086ffdfc5bf6177",
+            "type": "leaf",
+            "state": {
+              "type": "graph-analysis",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "플러그인이 더 이상 활성화돼있지 않음"
+            }
+          },
+          {
+            "id": "3031e005c6dcb9e3",
+            "type": "leaf",
+            "state": {
+              "type": "Strange New Worlds",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "플러그인이 더 이상 활성화돼있지 않음"
+            }
+          },
+          {
+            "id": "b6700147c57a42f1",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "플러그인이 더 이상 활성화돼있지 않음"
+            }
+          },
+          {
+            "id": "13b0b975a0ed8374",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "플러그인이 더 이상 활성화돼있지 않음"
+            }
+          },
+          {
+            "id": "2ee0acf82a9381f9",
+            "type": "leaf",
+            "state": {
+              "type": "smtcmp-chat-view",
+              "state": {},
+              "icon": "wand-sparkles",
+              "title": "Smart composer chat"
+            }
+          },
+          {
+            "id": "a8bb251970609477",
+            "type": "leaf",
+            "state": {
+              "type": "graph-analysis",
+              "state": {},
+              "icon": "GA-ICON",
+              "title": "Graph Analysis"
+            }
+          },
+          {
+            "id": "30e94cc25079cd15",
+            "type": "leaf",
+            "state": {
+              "type": "Strange New Worlds",
+              "state": {},
+              "icon": "file-digit",
+              "title": "Strange New Worlds"
+            }
+          },
+          {
+            "id": "2bce2e3ce8748c50",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "리뷰할 노트 대기열"
+            }
+          }
+        ],
+        "currentTab": 11
+      },
+      {
+        "id": "b8b0ce09cc4d4392",
+        "type": "tabs",
+        "dimension": 32.38719068413391,
+        "children": [
+          {
+            "id": "040044d240e35cfb",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Author_Projects/Project_내가_먹물로_새기는_전설/02_Lore_NMSJ/Artifacts_NMSJ/진묵_삼한비록지묵_설정_NMSJ.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.2588386562181643,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "진묵_삼한비록지묵_설정_NMSJ 그래프"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 423
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:빠른 전환기 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "random-note:무작위 노트 열기": false,
+      "workspaces:작업 공간 레이아웃 관리": false,
+      "file-tree-alternative:File Tree Alternative Plugin": false,
+      "templater-obsidian:Templater": false,
+      "periodic-notes:Open today": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "omnisearch:Omnisearch": false,
+      "kr-book-info-plugin:Add Book Info": false,
+      "obsidian-book-search-plugin:Create new book note": false,
+      "obsidian-spaced-repetition:플래시카드 리뷰": false,
+      "obsidian42-brat:BRAT": false,
+      "obsidian-kanban:새 보드 만들기": false,
+      "obsidian-translator:Translate": false,
+      "translate:Open translation view": false,
+      "smart-connections:Open: View Smart Connections": false,
+      "smart-connections:Open: Smart Chat Conversation": false,
+      "smart-composer:Open smart composer": false
+    }
+  },
+  "active": "b31d14346b3b60c6",
+  "lastOpenFiles": [
+    "Author_Projects/Project_내가_먹물로_새기는_전설/02_Lore_NMSJ/Characters_NMSJ/진묵_목소리_캐릭터_NMSJ.md",
+    "Author_Projects/Project_내가_먹물로_새기는_전설/02_Lore_NMSJ/Artifacts_NMSJ/진묵_삼한비록지묵_설정_NMSJ.md",
+    "Author_Projects/Project_내가_먹물로_새기는_전설/@NMSJ_Project_Dashboard.md",
+    "Excalidraw/Drawing 2025-05-19 11.19.46.excalidraw.md",
+    "Excalidraw",
+    "📂 Storyweaver_Engine_CORE/00_Arachne_Protocol/Storyweaver_Engine_HQ.md",
+    "📂 Storyweaver_Engine_CORE/01_Universal_Assets_and_Templates/Reference_Materials_Universal/Webnovel_Success_Patterns_General.md",
+    "Author_Projects/Project_내가_먹물로_새기는_전설/03_Narrative_NMSJ/Arc_01_검은먹물의_각성_NMSJ/Arc01_Event_List_NMSJ.md",
+    "Author_Projects/Project_내가_먹물로_새기는_전설/04_Manuscript_NMSJ/EP01_NMSJ/4화_숨겨진 조력자, 역사의 파편.md",
+    "4화_숨겨진 조력자, 역사의 파편.md",
+    "📂 Storyweaver_Engine_CORE/01_Universal_Assets_and_Templates/Templates/TPL_Character_Profile_Universal.md",
+    "Author_Projects/Project_내가_먹물로_새기는_전설/04_Manuscript_NMSJ/EP01_NMSJ/3화_낙인의 무게, 첫 번째 도주.md",
+    "📂 03_Narrative_NMSJ.md",
+    "Author_Projects/Project_내가_먹물로_새기는_전설/04_Manuscript_NMSJ/EP01_NMSJ/1화_검은재앙_피로쓰다_NMSJ.md",
+    "Author_Projects/Project_내가_먹물로_새기는_전설/04_Manuscript_NMSJ/EP01_NMSJ/2화_기록자의 혈손, 그리고 첫 번째 시험 (_NMSJ.md",
+    "Author_Projects/Project_내가_먹물로_새기는_전설/04_Manuscript_NMSJ/EP01_NMSJ/2화_핏빛계약_그리고_기록자의길_NMSJ.md",
+    "Author_Projects/Project_내가_먹물로_새기는_전설/03_Narrative_NMSJ/전체_플롯_아크_개요_NMSJ.md",
+    "Author_Projects/Project_내가_먹물로_새기는_전설/04_Manuscript_NMSJ/EP03_NMSJ/3화_첫번째기록_피와먹물로새긴투쟁_NMSJ.md",
+    "📂 Storyweaver_Engine_CORE/00_Arachne_Protocol/Arachne_Persona_v2.0_Optimized.md",
+    "Author_Projects/Project_내가_먹물로_새기는_전설/00_Templates/Artifact_Template_NMSJ.md",
+    "Author_Projects/Project_내가_먹물로_새기는_전설/00_Templates",
+    "📂 Storyweaver_Engine_CORE/00_Arachne_Protocol/CMDS_Universal_Principles.md",
+    "📂 Storyweaver_Engine_CORE/00_Arachne_Protocol/Author_Style_Guide_Main.md",
+    "Author_Projects/Project_내가_먹물로_새기는_전설/02_Lore_NMSJ/Characters_NMSJ/골동품상_묵선생_NMSJ.md",
+    "📂 04_Manuscript_NMSJ/EP01_NMSJ/1화_검은재앙_피로쓰다_NMSJ.md",
+    "📂 04_Manuscript_NMSJ/EP01_NMSJ",
+    "📂 04_Manuscript_NMSJ",
+    "Author_Projects/Project_내가_먹물로_새기는_전설/01_Genesis_NMSJ/최종_보스_서사_강화안_NMSJ.md",
+    "Author_Projects/Project_내가_먹물로_새기는_전설/01_Genesis_NMSJ/역사_배합_및_세계관_심화_전략_NMSJ.md",
+    "📂 03_Narrative_NMSJ/전체_플롯_아크_개요_NMSJ.md",
+    "📂 03_Narrative_NMSJ",
+    "📂 01_Genesis_NMSJ",
+    "📂 00_프로젝트_개요_NMSJ",
+    "📂 03_Narrative_NMSJ/Arc_01_검은먹물의_각성_NMSJ",
+    "Author_Projects/Project_내가_먹물로_새기는_전설/04_Manuscript_NMSJ/EP03_NMSJ",
+    "Untitled",
+    "무제.canvas"
+  ]
+}

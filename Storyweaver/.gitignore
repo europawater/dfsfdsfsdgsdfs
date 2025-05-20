@@ -1,0 +1,5 @@
+# Obsidian Smart Composer plugin data (contains API keys)
+.obsidian/plugins/smart-composer/data.json
+
+# Obsidian 전체 설정 폴더를 제외하고 싶다면 (권장하지는 않음, 일부 설정 공유 필요시)
+# .obsidian/

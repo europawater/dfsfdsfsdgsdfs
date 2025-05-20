@@ -1,0 +1,1 @@
+[[Storyweaver_Engine_CORE/Terminology 용어 정리 프롬프트]]
